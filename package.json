@@ -22,5 +22,10 @@
   "homepage": "https://github.com/Atnatewoss/feature-skill#readme",
   "dependencies": {
     "@modelcontextprotocol/sdk": "^1.29.0"
+  },
+  "devDependencies": {
+    "@types/node": "^26.0.1",
+    "ts-node": "^10.9.2",
+    "typescript": "^6.0.3"
   }
 }
