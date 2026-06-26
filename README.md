@@ -2,7 +2,7 @@
 
 This repository implements the **Agent Skills Open Standard** for AI coding agents. It is a "Dispatcher Skill" designed to dynamically load developer-specific coding styles, repo conventions, and architectural preferences based on the task at hand.
 
-The `profiles/` directory contains a carefully handpicked registry of world-class developers and defining codebases. Instead of relying on generic patterns, this skill channels the brains of top-tier engineers—drawing from the architects behind Linux, Redis, Vercel, Supabase, LangChain, and HashiCorp. 
+This repository contains a carefully handpicked registry of world-class developers and defining codebases. Instead of relying on generic patterns, this skill channels the brains of top-tier engineers—drawing from the architects behind Linux, Redis, Vercel, Supabase, LangChain, and HashiCorp. 
 
 **When to use this skill:** You should activate this skill **whenever you are adding a new feature or implementing a significant change**. By defaulting to this workflow, you ensure your agent writes precise, opinionated, production-grade code rather than generating generic, low-quality boilerplate (often referred to as AI "slop").
 
