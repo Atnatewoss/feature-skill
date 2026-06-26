@@ -1,0 +1,26 @@
+{
+  "name": "feature-skill",
+  "version": "1.0.0",
+  "description": "**Add a new feature by referring to how world-class developers do it.** An Agent Skill that injects exact coding patterns and architectures directly into your AI workflow. It is a \"Dispatcher Skill\" designed to dynamically load developer-specific coding styles, repo conventions, and architectural preferences based on the task at hand.",
+  "main": "build/index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node build/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Atnatewoss/feature-skill.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/Atnatewoss/feature-skill/issues"
+  },
+  "homepage": "https://github.com/Atnatewoss/feature-skill#readme",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.29.0"
+  }
+}
