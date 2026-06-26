@@ -1,6 +1,10 @@
+<div align="center">
+
 # feature-skill
 
 **Add a new feature into your project by referring to how world-class developers do it.**
+
+</div>
 
 This repository is an **Agent Skill** that stops your AI from writing generic "slop". It acts as a dispatcher, dynamically loading the precise coding patterns, architectures, and workflows of top-tier engineers (e.g., Karpathy for ML, Rauchg for Next.js, Antirez for C) based on the task at hand.
 
