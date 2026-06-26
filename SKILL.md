@@ -23,6 +23,11 @@ Read the task. Match the domain. Load the profile(s).
 | **Privacy / protocol / security** | `simplex-chat` | Protocol-level design, E2EE, security-aware code |
 | **Educational / tutorial code** | `webdevsimplified`, `karpathy` | Example-first repos, lesson structure, beginner clarity |
 | **Python library or tooling** | `samuelcolvin`, `cetanu` | Type hints, strict validation, Rust internals, uv/pytest |
+| **Data Dashboards & Analytics** | `steven-tey`, `tremorlabs`, `grafana` | Data-dense UIs, Vercel/Next.js edge, visualization primitives |
+| **Documentation & Technical Writing** | `squidfunk`, `hashicorp` | MkDocs, technical guides, exact CLI docs, structured knowledge |
+| **Databases & State (SQL, C)** | `antirez`, `dimitri`, `supabase` | Postgres migrations, Redis/C data structures, realtime sync |
+| **Diagrams, Canvas & SVG** | `vjeux`, `mbostock` | Excalidraw, D3.js, complex frontend rendering, data-driven docs |
+| **AI Agents & Strict Implementations** | `hwchase17`, `lucidrains`, `sindresorhus` | LangChain flows, paper implementations, ultra-strict small modules |
 
 When multiple profiles apply, load all of them — they complement each other. When none match exactly, pick the closest by tech stack and project shape.
 
