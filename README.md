@@ -4,6 +4,8 @@ This repository implements the **Agent Skills Open Standard** for AI coding agen
 
 This repository contains a carefully handpicked registry of world-class developers and defining codebases. Instead of relying on generic patterns, this skill channels the brains of top-tier engineers—drawing from the architects behind Linux, Redis, Vercel, Supabase, LangChain, and HashiCorp. 
 
+> **Note on Timeline:** Developer styles evolve. The coding profiles, architectural preferences, and ecosystem patterns captured in this repository reflect the state of these engineers and codebases as of **2026**.
+
 **When to use this skill:** You should activate this skill **whenever you are adding a new feature or implementing a significant change**. By defaulting to this workflow, you ensure your agent writes precise, opinionated, production-grade code rather than generating generic, low-quality boilerplate (often referred to as AI "slop").
 
 Instead of a monolithic system prompt, this skill routes the agent to the appropriate "profile" (e.g., Karpathy for ML, Rauchg for fast Next.js demos, Antirez for C databases) and executes a standardized development workflow.
