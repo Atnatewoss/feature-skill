@@ -29,7 +29,8 @@ Read the task. Match the domain. Load the profile(s).
 | **Diagrams, Canvas & SVG** | `vjeux`, `mbostock` | Excalidraw, D3.js, complex frontend rendering, data-driven docs |
 | **AI Agents & Strict Implementations** | `hwchase17`, `lucidrains`, `sindresorhus` | LangChain flows, paper implementations, ultra-strict small modules |
 
-When multiple profiles apply, load all of them — they complement each other. When none match exactly, pick the closest by tech stack and project shape.
+When multiple profiles apply, load all of them — they complement each other. 
+**Anti-Hallucination Guardrail:** If absolutely none of the profiles match the task domain, **do not guess or hallucinate a pattern**. Explicitly fall back to standard, generic best practices for the language, or ask the user for clarification. Never force a mismatched profile just to use one.
 
 ## How to use this skill
 
