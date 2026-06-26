@@ -46,32 +46,6 @@ That's it. The workflow handles the rest.
 | **Code review** | `workflows/code-review.md` | Reviewing someone else's code or self-reviewing before PR. |
 | **PR description** | `workflows/pr-description.md` | Generating a clean, informative pull request description. |
 
-## Profile index
-
-Each file in `profiles/` captures one developer's real patterns, stack, and repo references:
-
-| Profile | Domain | File |
-|---|---|---|
-| karpathy | ML, Python, single-file systems | `profiles/karpathy.md` |
-| rauchg | Ship-fast JS/TS, Next.js, CLI, demos | `profiles/rauchg.md` |
-| leerob | Next.js, App Router, SaaS, MDX | `profiles/leerob.md` |
-| torvalds | C, kernel, systems, hardware | `profiles/torvalds.md` |
-| katt | tRPC, TypeScript libraries, monorepos | `profiles/katt.md` |
-| himself65 | TypeScript infra, React, state libs | `profiles/himself65.md` |
-| samuelcolvin | Python libs, Pydantic, Rust internals | `profiles/samuelcolvin.md` |
-| stuartsul | CUDA, GPU kernels, benchmarks | `profiles/stuartsul.md` |
-| garrytan | Agent skills, workflow chains, CLI tools | `profiles/garrytan.md` |
-| cursor | Agent tooling, plugins, Supabase | `profiles/cursor.md` |
-| google-labs-code | Agent skills, SDKs, design specs | `profiles/google-labs-code.md` |
-| ping-maxwell | Auth, monorepo, adapters, plugins | `profiles/ping-maxwell.md` |
-| crynta | Tauri, desktop apps, terminal UX | `profiles/crynta.md` |
-| awesomekling | Browser engine, C++, systems | `profiles/awesomekling.md` |
-| ncdai | Pixel-perfect UI, shadcn, motion | `profiles/ncdai.md` |
-| simplex-chat | Privacy, E2EE, Haskell, protocols | `profiles/simplex-chat.md` |
-| cetanu | Infra tools, Python, Envoy, CLI | `profiles/cetanu.md` |
-| webdevsimplified | Tutorials, React hooks, demos | `profiles/webdevsimplified.md` |
-| magicalbat | C, single-header libs, graphics | `profiles/magicalbat.md` |
-| yule-buaa | ML research, model merging, PyTorch | `profiles/yule-buaa.md` |
 
 ## Safety and Permissions
 **CRITICAL RULE:** Any destructive action to the repository structure (like deleting folders, mass-renaming files, moving directories, or resetting git history) **must** ask for the user's explicit permission before execution. Do not assume it is safe to auto-run commands that can permanently lose uncommitted work.
