@@ -9,6 +9,7 @@ Before touching code, structure the approach (if complex, consult `registry-skil
 
 - State the feature in one sentence. If you can't, it's too big — split it.
 - Identify the smallest working unit that proves the feature works. Build that first.
+- **Create a branch:** Never work directly on `main` or `master`. Create a descriptive branch (e.g., `feat/auth-ui` or `fix/nav-bug`) before writing any code.
 - List the files that will change. If more than ~5, question whether you're doing too much.
 - Call out edge cases now, not during review. What breaks? What's the migration path? What's the rollback?
 
