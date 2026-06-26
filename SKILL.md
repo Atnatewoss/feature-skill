@@ -19,7 +19,7 @@ Read the task. Match the domain. Load the profile(s).
 | **GPU / CUDA / performance** | `stuartsul`, `karpathy` | Tile-level conventions, benchmark harnesses, compile-time params |
 | **Agent skills / AI tooling** | `garrytan`, `cursor`, `google-labs-code` | Skill/plugin patterns, workflow chains, agent infrastructure |
 | **Desktop app (Tauri / Electron)** | `crynta` | Tauri + Rust + React, terminal aesthetics, theme systems |
-| **Auth / SaaS / monorepo platform** | `ping-maxwell`, `leerob` | Plugin/adapter architecture, Stripe/Postgres, strict TS |
+| **Auth / SaaS / monorepo platform** | `ping-maxwell`, `leerob`, `bekacru` | Plugin/adapter architecture, Stripe/Postgres, strict TS |
 | **Privacy / protocol / security** | `simplex-chat` | Protocol-level design, E2EE, security-aware code |
 | **Educational / tutorial code** | `webdevsimplified`, `karpathy` | Example-first repos, lesson structure, beginner clarity |
 | **Python library or tooling** | `samuelcolvin`, `cetanu` | Type hints, strict validation, Rust internals, uv/pytest |
