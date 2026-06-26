@@ -1,10 +1,9 @@
 # feature-skill
 
-This repository implements the **Agent Skills Open Standard** for AI coding agents. It is a "Dispatcher Skill" designed to dynamically load developer-specific coding styles, repo conventions, and architectural preferences based on the task at hand.
+**Add a new feature by referring to how world-class developers do it.** An Agent Skill that injects exact coding patterns and architectures directly into your AI workflow. It is a "Dispatcher Skill" designed to dynamically load developer-specific coding styles, repo conventions, and architectural preferences based on the task at hand.
 
-This repository contains a carefully handpicked registry of world-class developers and defining codebases. Instead of relying on generic patterns, this skill channels the brains of top-tier engineers—drawing from the architects behind Linux, Redis, Vercel, Supabase, LangChain, and HashiCorp. 
+This repository contains a carefully handpicked registry of world-class developers and defining codebases. Instead of relying on generic patterns, this skill channels the brains of top-tier engineers—drawing from the architects behind Linux, Redis, Vercel, Supabase, LangChain, and HashiCorp as of 2026.
 
-> **Note on Timeline:** Developer styles evolve. The coding profiles, architectural preferences, and ecosystem patterns captured in this repository reflect the state of these engineers and codebases as of **2026**.
 
 **When to use this skill:** You should activate this skill **whenever you are adding a new feature or implementing a significant change**. By defaulting to this workflow, you ensure your agent writes precise, opinionated, production-grade code rather than generating generic, low-quality boilerplate (often referred to as AI "slop").
 
