@@ -1,0 +1,52 @@
+{
+  "$schema": "https://skills.sh/schemas/skills.sh.schema.json",
+  "name": "feature-skill",
+  "description": "A dispatcher skill that loads precise coding patterns, architectures, and workflows from world-class developers based on the task at hand.",
+  "groupings": [
+    {
+      "title": "Routing & Workflows",
+      "description": "Core dispatcher and execution chains.",
+      "skills": ["feature-skill"]
+    },
+    {
+      "title": "Developer Profiles",
+      "description": "Coding-style profiles of world-class developers, loaded on demand by domain.",
+      "skills": [
+        "antirez",
+        "awesomekling",
+        "bekacru",
+        "cetanu",
+        "crynta",
+        "cursor",
+        "dimitri",
+        "garrytan",
+        "google-labs-code",
+        "grafana",
+        "hashicorp",
+        "himself65",
+        "hwchase17",
+        "karpathy",
+        "katt",
+        "leerob",
+        "lucidrains",
+        "magicalbat",
+        "mbostock",
+        "ncdai",
+        "ping-maxwell",
+        "rauchg",
+        "samuelcolvin",
+        "simplex-chat",
+        "sindresorhus",
+        "squidfunk",
+        "steven-tey",
+        "stuartsul",
+        "supabase",
+        "torvalds",
+        "tremorlabs",
+        "vjeux",
+        "webdevsimplified",
+        "yule-buaa"
+      ]
+    }
+  ]
+}
